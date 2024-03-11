@@ -6,3 +6,6 @@ The paper for this work is being reviewed by Applied Intelligence Journal. The w
 
 # Data
 The unmodified data that had been generated is in `Data (Unmodified)` folder and its python code is in `Data Generation Code`. 
+Due to Github's policy, LFS (Large File System) has a limitations for free tier accounts. Therefore, for downloading the modified csv files, please use the following link to download modified data:
+Google Drive Link for data18, data50, data100 and kddcup99d: https://drive.google.com/drive/folders/1KmzFY1tzeWwgpG8Ui-ql1RKW2RPA4lXv?usp=sharing
+
